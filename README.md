@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://kogilo.github.io/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
