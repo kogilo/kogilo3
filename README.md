@@ -1,7 +1,5 @@
 ### Hi there, I'm Abella - abel [kogilo][website] 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...Web site with Django, 
 - 🌱 I’m currently learning ...API Design using MuleSoft, Big Data...
 - 👯 I’m looking to collaborate on Data Science and Machine Learning Projects.
